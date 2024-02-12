@@ -32,11 +32,11 @@ https://templatemo.com/tm-548-training-studio
 
 -->
     <!-- Additional CSS Files -->
-    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
 
-    <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="font-awesome.css">
 
-    <link rel="stylesheet" href="assets/css/templatemo-training-studio.css">
+    <link rel="stylesheet" href="templatemo-training-studio.css">
 
     </head>
     
@@ -129,15 +129,15 @@ https://templatemo.com/tm-548-training-studio
     <script src="assets/js/bootstrap.min.js"></script>
 
     <!-- Plugins -->
-    <script src="assets/js/scrollreveal.min.js"></script>
-    <script src="assets/js/waypoints.min.js"></script>
-    <script src="assets/js/jquery.counterup.min.js"></script>
-    <script src="assets/js/imgfix.min.js"></script> 
-    <script src="assets/js/mixitup.js"></script> 
-    <script src="assets/js/accordions.js"></script>
+    <script src="scrollreveal.min.js"></script>
+    <script src="waypoints.min.js"></script>
+    <script src="jquery.counterup.min.js"></script>
+    <script src="imgfix.min.js"></script> 
+    <script src="mixitup.js"></script> 
+    <script src="accordions.js"></script>
     
     <!-- Global Init -->
-    <script src="assets/js/custom.js"></script>
+    <script src="custom.js"></script>
 
   </body>
 </html>
